@@ -1,6 +1,6 @@
 # Python Implementation
 
-This repository contains **Python implementations** written in **Jupyter Notebook (`.ipynb`) format**. Each notebook focuses on a single concept with minimal theory and practical code examples.
+This repository features **Python implementations** with a strong emphasis on practical code examples and minimal theoretical explanation.
 
 ## 📌 Features
 
@@ -14,14 +14,6 @@ This repository contains **Python implementations** written in **Jupyter Noteboo
 * Learn Python concepts through **hands‑on notebooks**
 * Keep implementations **simple, specific, and easy to understand**
 * Useful for **students, beginners, and quick revision**
-
-## 📂 Repository Structure
-
-```
-├── notebook_1.ipynb
-├── notebook_2.ipynb
-└── ...
-```
 
 ## 🧠 Topics Covered
 
