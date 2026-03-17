@@ -1,4 +1,4 @@
-# Python Implementations (Jupyter Notebooks)
+# Python Implementations 
 
 This repository contains **Python implementations** written in **Jupyter Notebook (`.ipynb`) format**. Each notebook focuses on a single concept with minimal theory and practical code examples.
 
