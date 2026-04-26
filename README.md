@@ -1,6 +1,8 @@
 # Python implementation
 
-This repository features **Python implementations** with a strong emphasis on practical code examples and minimal theoretical explanation.
+This repository contains Python implementations of core programming and problem-solving concepts with a strong focus on **practical coding examples** rather than heavy theory.
+
+It is designed to help learners understand Python through hands-on scripts, notebooks, and examples.
 
 ## 📌 Features
 
