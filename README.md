@@ -41,7 +41,8 @@ This repository features **Python implementations** with a strong emphasis on pr
 ## 👨‍🎓 Intended Audience
 
 * Students
-* Beginners in Python / Data Science
+* Beginners in Python
+* Data Science learners 
 
 
 
