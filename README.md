@@ -1,4 +1,4 @@
-# Python Implementation
+# Python implementation
 
 This repository features **Python implementations** with a strong emphasis on practical code examples and minimal theoretical explanation.
 
