@@ -4,23 +4,23 @@ This repository features **Python implementations** with a strong emphasis on pr
 
 ## 📌 Features
 
-* Core logic implemented in Python
-* Modular and readable code structure
-* Easy to set up and run
-* Ready for extension or integration
+- Core logic implemented in Python
+- Modular and readable code structure
+- Easy to set up and run
+- Ready for extension or integration
 
 ## 🎯 Purpose
 
-* Learn Python concepts through **hands‑on notebooks**
-* Keep implementations **simple, specific, and easy to understand**
-* Useful for **students, beginners, and quick revision**
+- Learn Python concepts through **hands‑on notebooks**
+- Keep implementations **simple, specific, and easy to understand**
+- Useful for **students, beginners, and quick revision**
 
 ## 🧠 Topics Covered
 
-* Python basics
-* Data analysis & visualization
-* Machine learning / AI concepts (where applicable)
-* Practice problems & examples
+- Python basics
+- Data analysis & visualization
+- Machine learning / AI concepts (where applicable)
+- Practice problems & examples
 
 ## ▶️ How to Use
 
@@ -34,15 +34,15 @@ This repository features **Python implementations** with a strong emphasis on pr
 
 ## 🛠 Requirements
 
-* Python 3.x
-* Jupyter Notebook / Jupyter Lab
-* Common libraries (NumPy, Pandas, Matplotlib, etc.)
+- Python 3.x
+- Jupyter Notebook / Jupyter Lab
+- Common libraries (NumPy, Pandas, Matplotlib, etc.)
 
 ## 👨‍🎓 Intended Audience
 
-* Students
-* Beginners in Python
-* Data Science learners 
+- Students
+- Beginners in Python
+- Data Science learners 
 
 
 
