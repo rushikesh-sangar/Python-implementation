@@ -42,6 +42,8 @@ It is designed to help learners understand Python through hands-on scripts, note
 
 ## 👨‍🎓 Intended Audience
 
+This repository is useful for:
+
 - Students
 - Beginners in Python
 - Data Science learners 
