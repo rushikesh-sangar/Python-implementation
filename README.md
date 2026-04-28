@@ -38,7 +38,7 @@ It is designed to help learners understand Python through hands-on scripts, note
 
 - Python 3.x
 - Jupyter Notebook / Jupyter Lab
-- Common libraries (NumPy, Pandas, Matplotlib, etc.)
+- Common libraries (NumPy, Pandas, Matplotlib, Seaborn etc.)
 
 ## 👨‍🎓 Intended Audience
 
